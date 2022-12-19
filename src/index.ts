@@ -1,1 +1,1 @@
-console.log('Jorge é calvo');
+console.log('Jorge calvo!');
